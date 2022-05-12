@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DragDrop</string>
+    <string name="draggable_mask_image">Draggable Mask Image</string>
+    <string name="unmasked_face">Face drop area for mask to be dragged</string>
+</resources>
